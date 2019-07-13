@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alc4.0Challenge1.0App</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about_activity_title">About ALC</string>
+    <string name="mahamat_ali">Mahamat Ali</string>
+    <string name="country_chad">Country: Chad</string>
+    <string name="phone_number_23511001010">Phone Number: +23511001010</string>
+    <string name="track_android">Track: Android</string>
+    <string name="email_nourdiko_gmail_com">Email: nourdiko@gmail.com</string>
+    <string name="slack_username_mahamat_ali">Slack Username: @Mahamat Ali</string>
+    <string name="todo">TODO</string>
+    <string name="andela_logo">Andela logo</string>
+    <string name="ssl_error_message">is unsafe, therefore the request is cancelled</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+</resources>
